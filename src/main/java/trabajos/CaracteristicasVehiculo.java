@@ -2,7 +2,7 @@ package trabajos;
 
 public class CaracteristicasVehiculo {
 
-        CaracteristicasVehiculo vehiculo (){
+        String vehiculo (){
             return puertas;
         }
 
