@@ -1,9 +1,8 @@
 package trabajos;
 
-import javax.swing.plaf.synth.SynthOptionPaneUI;
 import java.util.Scanner;
 
-public class Trabajo {
+public class Trabajo3 {
 
    public static void main(String[] args) {
 
