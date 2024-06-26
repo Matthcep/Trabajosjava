@@ -6,13 +6,6 @@ import java.util.Scanner;
 public class Clase5 {
 
     public static void main(String[] args) {
-        int[] numeros = new int[10];
-        numeros[0]=2;
-        numeros[1]=21;
-        numeros[3]=2;
-        numeros[4]=2;
-        numeros[5]=2;
-        numeros[6]=2;
 
         Scanner scanner = new Scanner(System.in);
         Double[] arreglo = new Double[4];
