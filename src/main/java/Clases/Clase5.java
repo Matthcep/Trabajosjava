@@ -3,7 +3,7 @@ package Clases;
 import java.util.Arrays;
 import java.util.Scanner;
 
-public class clase5 {
+public class Clase5 {
 
     public static void main(String[] args) {
         int[] numeros = new int[10];
