@@ -1,2 +1,4 @@
-package Clases;public class Clase9 {
+package Clases;
+
+public class Clase9 {
 }
